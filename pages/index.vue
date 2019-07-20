@@ -2,7 +2,8 @@
   <section>
     <div>
       <Logo :width="350"/>
-      <h1 class="title">Ykä
+      <h1 class="title">
+        Ykä
         <span class="green">Marjanen</span>
       </h1>
       <h2 class="subtitle">Starter for CodeSandBox</h2>
